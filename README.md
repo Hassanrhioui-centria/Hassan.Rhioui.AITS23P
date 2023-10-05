@@ -15,14 +15,14 @@ If you're thinking to yourself, This is unbelievable, you'd probably be right.
 <details>
 <summary>Headers</summary>
 
-- Header one
-- Header two
-- Header three
-- Header four
-- Header five
-- Header six
-- Colombian Symbolism in One Hundred Years of Solitude
-- Here's some words about the book One Hundred Years....
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
+ Colombian Symbolism in One Hundred Years of Solitude
+ Here's some words about the book One Hundred Years....
 </details>
 
 <details>
@@ -62,10 +62,10 @@ To doubt they were kneeling then.
 <details>
 <summary>Navigation</summary>
 
-- [search for it](https://www.google.com)
-- [You're really, really going to want to see this.](https://www.dailykitten.com)
-  
-</details>
+ [search for it](https://www.google.com)
+ [You're really, really going to want to see this.](https://www.dailykitten.com)
+  </details>
+
 <details>
 <summary> Photos </summary>
 
