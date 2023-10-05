@@ -62,8 +62,8 @@ To doubt they were kneeling then.
 <details>
 <summary>Navigation</summary>
 
- [search for it](https://www.google.com)  
- [You're really, really going to want to see this.](https://www.dailykitten.com)
+ ![search for it](https://www.google.com)  <br>
+ ![You're really, really going to want to see this.](https://www.dailykitten.com)
   </details>
 
 <details>
