@@ -59,7 +59,13 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.
    Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 </details>
+<details>
+<summary>Navigation</summary>
 
+- [search for it](https://www.google.com)
+- [You're really, really going to want to see this.](https://www.dailykitten.com)
+  
+</details>
 <details>
 <summary> Photos </summary>
 
