@@ -24,7 +24,7 @@ Writing in Markdown is _not_ that hard!
 #### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years..._.  
-### <u>**Links and images:**</u>
+### <u> Links and images: </u>
 
 [search for it ](www.google.com)  
 [You're **really, really** going to want to see this.](www.dailykitten.com)
